@@ -60,7 +60,7 @@ sudo apt-get update
 ```
 apt-cache madison docker-ce
 ```
-![在这里插入图片描述](https://img-blog.csdn.net/20181017143309143?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzM5NzMyNg==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![](https://img-blog.csdn.net/20181017143309143?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzM5NzMyNg==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 8.安装指定版本docker
 
 ```
